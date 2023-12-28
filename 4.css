@@ -1,0 +1,13 @@
+img{
+	border: 5px solid white;
+	border-radius:50% ;
+	height: 300px;
+	width: 300px;
+    }
+    .relative{
+	position: relative;
+	width: 320px;
+	height: 330px;
+	border: 1px solid rgb(156, 150, 150);
+	background-color: rgb(156, 156, 156);
+    }

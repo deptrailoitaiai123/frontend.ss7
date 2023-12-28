@@ -1,0 +1,27 @@
+
+.absolute {
+	position: absolute;
+	top: -10px;
+	right: -10px;
+	width: 25px;
+	height: 25px;
+	border: 1px solid white;
+	background-color: #f92819;
+	border-radius: 50%;
+	color: white;
+      }
+      .relative {
+	position: relative;
+	width: 50px;
+	height: 50px;
+	border: 3px solid rgb(164, 164, 164);
+	background-color: rgb(164, 164, 164);
+	border-radius: 15%;
+      } 
+      .text{
+	line-height: 25px;
+      }
+      .margin{
+	margin-left: 25px;
+	margin-top: -20px;
+      }
